@@ -1,0 +1,9 @@
+numpy
+scipy
+soundfile
+librosa
+pandas
+scikit-learn==1.8.0
+matplotlib
+torch
+flask

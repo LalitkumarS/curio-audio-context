@@ -1,0 +1,827 @@
+[
+  {
+    "clip_id": "clip_0008",
+    "audio_path": "data\\audio\\clip_0008.wav",
+    "environment": "park",
+    "events": [
+      {
+        "event": "dog_bark",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "event": "dog_bark",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "event": "footsteps",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "a park"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a dog bark, footsteps"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a dog bark in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a dog bark occur?",
+        "answer": "2"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before footsteps?",
+        "answer": "a dog bark"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0047",
+    "audio_path": "data\\audio\\clip_0047.wav",
+    "environment": "street",
+    "events": [
+      {
+        "event": "clap",
+        "start": 4,
+        "end": 5
+      },
+      {
+        "event": "footsteps",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "event": "footsteps",
+        "start": 7,
+        "end": 8
+      },
+      {
+        "event": "dog_bark",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "a street"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a clap, footsteps, a dog bark"
+      },
+      {
+        "type": "presence",
+        "question": "Is there footsteps in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does footsteps occur?",
+        "answer": "2"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a dog bark?",
+        "answer": "footsteps"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a broad noisy background with traffic-like sounds."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0054",
+    "audio_path": "data\\audio\\clip_0054.wav",
+    "environment": "rain",
+    "events": [
+      {
+        "event": "dog_bark",
+        "start": 5,
+        "end": 6
+      },
+      {
+        "event": "footsteps",
+        "start": 7,
+        "end": 8
+      },
+      {
+        "event": "bell",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "a rainy environment"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a dog bark, footsteps, a bell"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a dog bark in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a dog bark occur?",
+        "answer": "1"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a bell?",
+        "answer": "footsteps"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a continuous broadband rainfall-like texture."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0068",
+    "audio_path": "data\\audio\\clip_0068.wav",
+    "environment": "park",
+    "events": [
+      {
+        "event": "bell",
+        "start": 2,
+        "end": 3
+      },
+      {
+        "event": "bell",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "event": "footsteps",
+        "start": 5,
+        "end": 6
+      },
+      {
+        "event": "door_knock",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "a park"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a bell, footsteps, a door knock"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a bell in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a bell occur?",
+        "answer": "2"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a door knock?",
+        "answer": "footsteps"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0044",
+    "audio_path": "data\\audio\\clip_0044.wav",
+    "environment": "rain",
+    "events": [
+      {
+        "event": "footsteps",
+        "start": 5,
+        "end": 6
+      },
+      {
+        "event": "door_knock",
+        "start": 6,
+        "end": 7
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "a rainy environment"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "footsteps, a door knock"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a door knock in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a door knock occur?",
+        "answer": "1"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a door knock?",
+        "answer": "footsteps"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a continuous broadband rainfall-like texture."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0005",
+    "audio_path": "data\\audio\\clip_0005.wav",
+    "environment": "home",
+    "events": [
+      {
+        "event": "bell",
+        "start": 2,
+        "end": 3
+      },
+      {
+        "event": "footsteps",
+        "start": 5,
+        "end": 6
+      },
+      {
+        "event": "dog_bark",
+        "start": 7,
+        "end": 8
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "home"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a bell, footsteps, a dog bark"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a dog bark in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a dog bark occur?",
+        "answer": "1"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a dog bark?",
+        "answer": "footsteps"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a quiet indoor household ambience."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0072",
+    "audio_path": "data\\audio\\clip_0072.wav",
+    "environment": "street",
+    "events": [
+      {
+        "event": "dog_bark",
+        "start": 1,
+        "end": 2
+      },
+      {
+        "event": "footsteps",
+        "start": 2,
+        "end": 3
+      },
+      {
+        "event": "clap",
+        "start": 4,
+        "end": 5
+      },
+      {
+        "event": "bell",
+        "start": 7,
+        "end": 8
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "a street"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a dog bark, footsteps, a clap, a bell"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a dog bark in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a dog bark occur?",
+        "answer": "1"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a bell?",
+        "answer": "a clap"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a broad noisy background with traffic-like sounds."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0015",
+    "audio_path": "data\\audio\\clip_0015.wav",
+    "environment": "home",
+    "events": [
+      {
+        "event": "dog_bark",
+        "start": 1,
+        "end": 2
+      },
+      {
+        "event": "dog_bark",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "event": "clap",
+        "start": 5,
+        "end": 6
+      },
+      {
+        "event": "clap",
+        "start": 7,
+        "end": 8
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "home"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a dog bark, a clap"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a dog bark in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a dog bark occur?",
+        "answer": "2"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a clap?",
+        "answer": "a clap"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a quiet indoor household ambience."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0076",
+    "audio_path": "data\\audio\\clip_0076.wav",
+    "environment": "office",
+    "events": [
+      {
+        "event": "dog_bark",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "event": "dog_bark",
+        "start": 4,
+        "end": 5
+      },
+      {
+        "event": "door_knock",
+        "start": 8,
+        "end": 9
+      },
+      {
+        "event": "dog_bark",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "an office"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a dog bark, a door knock"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a dog bark in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a dog bark occur?",
+        "answer": "3"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a dog bark?",
+        "answer": "a door knock"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a steady mechanical indoor ambience."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0038",
+    "audio_path": "data\\audio\\clip_0038.wav",
+    "environment": "park",
+    "events": [
+      {
+        "event": "door_knock",
+        "start": 2,
+        "end": 3
+      },
+      {
+        "event": "footsteps",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "a park"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a door knock, footsteps"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a door knock in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a door knock occur?",
+        "answer": "1"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before footsteps?",
+        "answer": "a door knock"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0013",
+    "audio_path": "data\\audio\\clip_0013.wav",
+    "environment": "park",
+    "events": [
+      {
+        "event": "bell",
+        "start": 4,
+        "end": 5
+      },
+      {
+        "event": "clap",
+        "start": 5,
+        "end": 6
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "a park"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a bell, a clap"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a clap in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a clap occur?",
+        "answer": "1"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a clap?",
+        "answer": "a bell"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0031",
+    "audio_path": "data\\audio\\clip_0031.wav",
+    "environment": "office",
+    "events": [
+      {
+        "event": "dog_bark",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "event": "clap",
+        "start": 4,
+        "end": 5
+      },
+      {
+        "event": "footsteps",
+        "start": 5,
+        "end": 6
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "an office"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a dog bark, a clap, footsteps"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a dog bark in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a dog bark occur?",
+        "answer": "1"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before footsteps?",
+        "answer": "a clap"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a steady mechanical indoor ambience."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0080",
+    "audio_path": "data\\audio\\clip_0080.wav",
+    "environment": "home",
+    "events": [
+      {
+        "event": "clap",
+        "start": 4,
+        "end": 5
+      },
+      {
+        "event": "door_knock",
+        "start": 8,
+        "end": 9
+      },
+      {
+        "event": "dog_bark",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "home"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a clap, a door knock, a dog bark"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a door knock in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a door knock occur?",
+        "answer": "1"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a dog bark?",
+        "answer": "a door knock"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a quiet indoor household ambience."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0075",
+    "audio_path": "data\\audio\\clip_0075.wav",
+    "environment": "home",
+    "events": [
+      {
+        "event": "bell",
+        "start": 5,
+        "end": 6
+      },
+      {
+        "event": "bell",
+        "start": 7,
+        "end": 8
+      },
+      {
+        "event": "dog_bark",
+        "start": 8,
+        "end": 9
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "home"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a bell, a dog bark"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a bell in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a bell occur?",
+        "answer": "2"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before a dog bark?",
+        "answer": "a bell"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a quiet indoor household ambience."
+      }
+    ]
+  },
+  {
+    "clip_id": "clip_0009",
+    "audio_path": "data\\audio\\clip_0009.wav",
+    "environment": "rain",
+    "events": [
+      {
+        "event": "dog_bark",
+        "start": 2,
+        "end": 3
+      },
+      {
+        "event": "clap",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "event": "dog_bark",
+        "start": 5,
+        "end": 6
+      },
+      {
+        "event": "footsteps",
+        "start": 6,
+        "end": 7
+      }
+    ],
+    "qa": [
+      {
+        "type": "what",
+        "question": "What environment does this audio suggest?",
+        "answer": "a rainy environment"
+      },
+      {
+        "type": "what_sound",
+        "question": "What sounds are present in the audio?",
+        "answer": "a dog bark, a clap, footsteps"
+      },
+      {
+        "type": "presence",
+        "question": "Is there a dog bark in the audio?",
+        "answer": "yes"
+      },
+      {
+        "type": "counting",
+        "question": "How many times does a dog bark occur?",
+        "answer": "2"
+      },
+      {
+        "type": "temporal",
+        "question": "What happens immediately before footsteps?",
+        "answer": "a dog bark"
+      },
+      {
+        "type": "why",
+        "question": "Why does the audio appear to be in this environment?",
+        "answer": "Because the audio contains a continuous broadband rainfall-like texture."
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "sample_rate": 16000,
+  "duration_seconds": 12,
+  "events": [
+    "door_knock",
+    "dog_bark",
+    "clap",
+    "bell",
+    "footsteps"
+  ],
+  "environments": [
+    "home",
+    "office",
+    "street",
+    "park",
+    "rain"
+  ],
+  "num_clips": 90,
+  "splits": {
+    "train": 62,
+    "val": 13,
+    "test": 15
+  },
+  "seed": 42
+}

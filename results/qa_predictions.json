@@ -1,0 +1,812 @@
+[
+  {
+    "clip_id": "clip_0008",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "a park",
+    "prediction": "a park",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0008",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a dog bark, footsteps",
+    "prediction": "a dog bark, footsteps",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0008",
+    "type": "presence",
+    "question": "Is there a dog bark in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0008",
+    "type": "counting",
+    "question": "How many times does a dog bark occur?",
+    "gold": "2",
+    "prediction": "2",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0008",
+    "type": "temporal",
+    "question": "What happens immediately before footsteps?",
+    "gold": "a dog bark",
+    "prediction": "a dog bark",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0008",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds.",
+    "prediction": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0047",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "a street",
+    "prediction": "a street",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0047",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a clap, footsteps, a dog bark",
+    "prediction": "a clap, footsteps, a dog bark",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0047",
+    "type": "presence",
+    "question": "Is there footsteps in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0047",
+    "type": "counting",
+    "question": "How many times does footsteps occur?",
+    "gold": "2",
+    "prediction": "2",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0047",
+    "type": "temporal",
+    "question": "What happens immediately before a dog bark?",
+    "gold": "footsteps",
+    "prediction": "footsteps",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0047",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a broad noisy background with traffic-like sounds.",
+    "prediction": "Because the audio contains a broad noisy background with traffic-like sounds.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0054",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "a rainy environment",
+    "prediction": "a rainy environment",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0054",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a dog bark, footsteps, a bell",
+    "prediction": "a dog bark, footsteps, a bell",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0054",
+    "type": "presence",
+    "question": "Is there a dog bark in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0054",
+    "type": "counting",
+    "question": "How many times does a dog bark occur?",
+    "gold": "1",
+    "prediction": "1",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0054",
+    "type": "temporal",
+    "question": "What happens immediately before a bell?",
+    "gold": "footsteps",
+    "prediction": "footsteps",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0054",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a continuous broadband rainfall-like texture.",
+    "prediction": "Because the audio contains a continuous broadband rainfall-like texture.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0068",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "a park",
+    "prediction": "a park",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0068",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a bell, footsteps, a door knock",
+    "prediction": "a bell, footsteps, a door knock",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0068",
+    "type": "presence",
+    "question": "Is there a bell in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0068",
+    "type": "counting",
+    "question": "How many times does a bell occur?",
+    "gold": "2",
+    "prediction": "2",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0068",
+    "type": "temporal",
+    "question": "What happens immediately before a door knock?",
+    "gold": "footsteps",
+    "prediction": "footsteps",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0068",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds.",
+    "prediction": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0044",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "a rainy environment",
+    "prediction": "a rainy environment",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0044",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "footsteps, a door knock",
+    "prediction": "footsteps, a door knock",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0044",
+    "type": "presence",
+    "question": "Is there a door knock in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0044",
+    "type": "counting",
+    "question": "How many times does a door knock occur?",
+    "gold": "1",
+    "prediction": "1",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0044",
+    "type": "temporal",
+    "question": "What happens immediately before a door knock?",
+    "gold": "footsteps",
+    "prediction": "footsteps",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0044",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a continuous broadband rainfall-like texture.",
+    "prediction": "Because the audio contains a continuous broadband rainfall-like texture.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "home",
+    "prediction": "home",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a bell, footsteps, a dog bark",
+    "prediction": "a bell, footsteps, a dog bark",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "presence",
+    "question": "Is there a dog bark in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "counting",
+    "question": "How many times does a dog bark occur?",
+    "gold": "1",
+    "prediction": "1",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "temporal",
+    "question": "What happens immediately before a dog bark?",
+    "gold": "footsteps",
+    "prediction": "footsteps",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a quiet indoor household ambience.",
+    "prediction": "Because the audio contains a quiet indoor household ambience.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0072",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "a street",
+    "prediction": "a street",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0072",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a dog bark, footsteps, a clap, a bell",
+    "prediction": "a dog bark, footsteps, a clap, a bell",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0072",
+    "type": "presence",
+    "question": "Is there a dog bark in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0072",
+    "type": "counting",
+    "question": "How many times does a dog bark occur?",
+    "gold": "1",
+    "prediction": "1",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0072",
+    "type": "temporal",
+    "question": "What happens immediately before a bell?",
+    "gold": "a clap",
+    "prediction": "a clap",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0072",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a broad noisy background with traffic-like sounds.",
+    "prediction": "Because the audio contains a broad noisy background with traffic-like sounds.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0015",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "home",
+    "prediction": "home",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0015",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a dog bark, a clap",
+    "prediction": "a dog bark, a clap",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0015",
+    "type": "presence",
+    "question": "Is there a dog bark in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0015",
+    "type": "counting",
+    "question": "How many times does a dog bark occur?",
+    "gold": "2",
+    "prediction": "2",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0015",
+    "type": "temporal",
+    "question": "What happens immediately before a clap?",
+    "gold": "a clap",
+    "prediction": "a clap",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0015",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a quiet indoor household ambience.",
+    "prediction": "Because the audio contains a quiet indoor household ambience.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "an office",
+    "prediction": "an office",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a dog bark, a door knock",
+    "prediction": "a dog bark, a door knock",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "presence",
+    "question": "Is there a dog bark in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "counting",
+    "question": "How many times does a dog bark occur?",
+    "gold": "3",
+    "prediction": "3",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "temporal",
+    "question": "What happens immediately before a dog bark?",
+    "gold": "a door knock",
+    "prediction": "a door knock",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a steady mechanical indoor ambience.",
+    "prediction": "Because the audio contains a steady mechanical indoor ambience.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0038",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "a park",
+    "prediction": "a park",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0038",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a door knock, footsteps",
+    "prediction": "a door knock, footsteps",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0038",
+    "type": "presence",
+    "question": "Is there a door knock in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0038",
+    "type": "counting",
+    "question": "How many times does a door knock occur?",
+    "gold": "1",
+    "prediction": "1",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0038",
+    "type": "temporal",
+    "question": "What happens immediately before footsteps?",
+    "gold": "a door knock",
+    "prediction": "a door knock",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0038",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds.",
+    "prediction": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0013",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "a park",
+    "prediction": "a park",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0013",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a bell, a clap",
+    "prediction": "a bell, a clap",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0013",
+    "type": "presence",
+    "question": "Is there a clap in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0013",
+    "type": "counting",
+    "question": "How many times does a clap occur?",
+    "gold": "1",
+    "prediction": "1",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0013",
+    "type": "temporal",
+    "question": "What happens immediately before a clap?",
+    "gold": "a bell",
+    "prediction": "a bell",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0013",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds.",
+    "prediction": "Because the audio contains quiet outdoor ambience with occasional high-pitched natural sounds.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0031",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "an office",
+    "prediction": "an office",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0031",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a dog bark, a clap, footsteps",
+    "prediction": "a dog bark, a clap, footsteps",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0031",
+    "type": "presence",
+    "question": "Is there a dog bark in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0031",
+    "type": "counting",
+    "question": "How many times does a dog bark occur?",
+    "gold": "1",
+    "prediction": "1",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0031",
+    "type": "temporal",
+    "question": "What happens immediately before footsteps?",
+    "gold": "a clap",
+    "prediction": "a clap",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0031",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a steady mechanical indoor ambience.",
+    "prediction": "Because the audio contains a steady mechanical indoor ambience.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "home",
+    "prediction": "home",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a clap, a door knock, a dog bark",
+    "prediction": "a clap, a door knock, a dog bark",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "presence",
+    "question": "Is there a door knock in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "counting",
+    "question": "How many times does a door knock occur?",
+    "gold": "1",
+    "prediction": "1",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "temporal",
+    "question": "What happens immediately before a dog bark?",
+    "gold": "a door knock",
+    "prediction": "a door knock",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a quiet indoor household ambience.",
+    "prediction": "Because the audio contains a quiet indoor household ambience.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0075",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "home",
+    "prediction": "home",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0075",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a bell, a dog bark",
+    "prediction": "a bell, a dog bark",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0075",
+    "type": "presence",
+    "question": "Is there a bell in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0075",
+    "type": "counting",
+    "question": "How many times does a bell occur?",
+    "gold": "2",
+    "prediction": "2",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0075",
+    "type": "temporal",
+    "question": "What happens immediately before a dog bark?",
+    "gold": "a bell",
+    "prediction": "a bell",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0075",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a quiet indoor household ambience.",
+    "prediction": "Because the audio contains a quiet indoor household ambience.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0009",
+    "type": "what",
+    "question": "What environment does this audio suggest?",
+    "gold": "a rainy environment",
+    "prediction": "a rainy environment",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0009",
+    "type": "what_sound",
+    "question": "What sounds are present in the audio?",
+    "gold": "a dog bark, a clap, footsteps",
+    "prediction": "a dog bark, a clap, footsteps",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0009",
+    "type": "presence",
+    "question": "Is there a dog bark in the audio?",
+    "gold": "yes",
+    "prediction": "yes",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0009",
+    "type": "counting",
+    "question": "How many times does a dog bark occur?",
+    "gold": "2",
+    "prediction": "2",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0009",
+    "type": "temporal",
+    "question": "What happens immediately before footsteps?",
+    "gold": "a dog bark",
+    "prediction": "a dog bark",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  },
+  {
+    "clip_id": "clip_0009",
+    "type": "why",
+    "question": "Why does the audio appear to be in this environment?",
+    "gold": "Because the audio contains a continuous broadband rainfall-like texture.",
+    "prediction": "Because the audio contains a continuous broadband rainfall-like texture.",
+    "exact_match": 1.0,
+    "token_f1": 1.0
+  }
+]

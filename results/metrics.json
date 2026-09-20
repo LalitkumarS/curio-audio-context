@@ -1,0 +1,43 @@
+{
+  "model_metrics": {
+    "environment_accuracy": 1.0,
+    "environment_macro_f1": 1.0,
+    "event_accuracy": 1.0,
+    "event_macro_f1": 1.0
+  },
+  "qa_exact_match": 1.0,
+  "qa_token_f1": 1.0,
+  "by_type": {
+    "what": {
+      "n": 15,
+      "exact_match": 1.0,
+      "token_f1": 1.0
+    },
+    "what_sound": {
+      "n": 15,
+      "exact_match": 1.0,
+      "token_f1": 1.0
+    },
+    "presence": {
+      "n": 15,
+      "exact_match": 1.0,
+      "token_f1": 1.0
+    },
+    "counting": {
+      "n": 15,
+      "exact_match": 1.0,
+      "token_f1": 1.0
+    },
+    "temporal": {
+      "n": 15,
+      "exact_match": 1.0,
+      "token_f1": 1.0
+    },
+    "why": {
+      "n": 15,
+      "exact_match": 1.0,
+      "token_f1": 1.0
+    }
+  },
+  "error_examples": []
+}
